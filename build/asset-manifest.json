@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tarea02Analisis/static/css/main.a679c871.css",
+    "main.js": "/Tarea02Analisis/static/js/main.3083fcdb.js",
+    "index.html": "/Tarea02Analisis/index.html",
+    "main.a679c871.css.map": "/Tarea02Analisis/static/css/main.a679c871.css.map",
+    "main.3083fcdb.js.map": "/Tarea02Analisis/static/js/main.3083fcdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a679c871.css",
+    "static/js/main.3083fcdb.js"
+  ]
+}
